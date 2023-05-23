@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<!--
-**luan1255/luan1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome  é luan passos 🫀
 
-Here are some ideas to get you started:
+estou estudando na alura 
 
-- 🔭 I’m currently working on  
-- 🌱 I’m currently learning  a dança 
-- 👯 I’m looking to collaborate a  estudar
-- 🤔 I’m looking for help with  **
-- 💬 Ask me about  estudr
-- 📫 How to reach me: pro  barco
-- 😄 Pronouns: sim
-- ⚡ Fun fact: sla
+estou me desenvolvendo na linguagem javaScript
+
+utilizo esse espaço para minha organização  e compartilhamento dos meus projetos desenvouvidos 
+
+![](https://media.tenor.com/RSUq8agBH0EAAAAC/kawaii-cinnamoroll.gif)
