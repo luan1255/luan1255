@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-meu nome  é luan passos 🫀
+ nome  é luan passos 
 
-estou estudando na alura 
+estou estudando na  [alura](httsp//www.alura.com.br)
 
 estou me desenvolvendo na linguagem javaScript
 
